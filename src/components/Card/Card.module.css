@@ -1,0 +1,20 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cardPhoto{
+    width: 370px;
+    margin-top: 20px;
+}
+
+.imgCard{
+     
+    width: 250px;
+    height: 230px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}

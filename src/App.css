@@ -1,0 +1,7 @@
+.App{
+    display: flex;
+}
+.textTitle{
+text-align: center; 
+font-size: 25px;
+}
